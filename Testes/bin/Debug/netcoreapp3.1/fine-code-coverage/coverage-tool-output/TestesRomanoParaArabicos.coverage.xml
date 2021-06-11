@@ -1,0 +1,394 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<coverage line-rate="0.5425" branch-rate="0.46869999999999995" version="1.9" timestamp="1623439741" lines-covered="51" lines-valid="94" branches-covered="15" branches-valid="32">
+  <sources>
+    <source>C:\Users\Michaltchuk\source\repos\NumerosRomanos\NumerosRomanos.ConsoleApp\</source>
+  </sources>
+  <packages>
+    <package name="NumerosRomanos.ConsoleApp" line-rate="0.5425" branch-rate="0.46869999999999995" complexity="38">
+      <classes>
+        <class name="NumerosRomanos.ConsoleApp.ArabicosParaRomanos" filename="ArabicosParaRomanos.cs" line-rate="0" branch-rate="0" complexity="18">
+          <methods>
+            <method name="ConverterParaRomano" signature="()" line-rate="0" branch-rate="0" complexity="2">
+              <lines>
+                <line number="14" hits="0" branch="False" />
+                <line number="15" hits="0" branch="False" />
+                <line number="16" hits="0" branch="True" condition-coverage="0% (0/2)">
+                  <conditions>
+                    <condition number="25" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+                <line number="17" hits="0" branch="False" />
+                <line number="18" hits="0" branch="False" />
+                <line number="19" hits="0" branch="False" />
+                <line number="22" hits="0" branch="False" />
+                <line number="23" hits="0" branch="False" />
+              </lines>
+            </method>
+            <method name="TransformarEmNumerosRomanos" signature="(System.Int32)" line-rate="0" branch-rate="0" complexity="4">
+              <lines>
+                <line number="26" hits="0" branch="False" />
+                <line number="27" hits="0" branch="True" condition-coverage="0% (0/2)">
+                  <conditions>
+                    <condition number="78" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+                <line number="28" hits="0" branch="False" />
+                <line number="29" hits="0" branch="True" condition-coverage="0% (0/2)">
+                  <conditions>
+                    <condition number="39" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+                <line number="30" hits="0" branch="False" />
+                <line number="31" hits="0" branch="False" />
+                <line number="32" hits="0" branch="False" />
+              </lines>
+            </method>
+            <method name="GerarDicionarioArabicoParaRomano" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="35" hits="0" branch="False" />
+                <line number="36" hits="0" branch="False" />
+                <line number="37" hits="0" branch="False" />
+                <line number="38" hits="0" branch="False" />
+                <line number="39" hits="0" branch="False" />
+                <line number="40" hits="0" branch="False" />
+                <line number="41" hits="0" branch="False" />
+                <line number="42" hits="0" branch="False" />
+                <line number="43" hits="0" branch="False" />
+                <line number="44" hits="0" branch="False" />
+              </lines>
+            </method>
+            <method name="Validar" signature="()" line-rate="0" branch-rate="0" complexity="10">
+              <lines>
+                <line number="47" hits="0" branch="False" />
+                <line number="48" hits="0" branch="True" condition-coverage="0% (0/2)">
+                  <conditions>
+                    <condition number="53" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+                <line number="49" hits="0" branch="False" />
+                <line number="50" hits="0" branch="True" condition-coverage="0% (0/2)">
+                  <conditions>
+                    <condition number="30" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+                <line number="51" hits="0" branch="False" />
+                <line number="52" hits="0" branch="False" />
+                <line number="53" hits="0" branch="True" condition-coverage="0% (0/2)">
+                  <conditions>
+                    <condition number="75" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+                <line number="54" hits="0" branch="False" />
+                <line number="55" hits="0" branch="True" condition-coverage="0% (0/2)">
+                  <conditions>
+                    <condition number="106" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+                <line number="56" hits="0" branch="False" />
+                <line number="57" hits="0" branch="True" condition-coverage="0% (0/2)">
+                  <conditions>
+                    <condition number="143" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+                <line number="58" hits="0" branch="False" />
+                <line number="59" hits="0" branch="False" />
+                <line number="60" hits="0" branch="False" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="11" hits="0" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="14" hits="0" branch="False" />
+            <line number="15" hits="0" branch="False" />
+            <line number="16" hits="0" branch="True" condition-coverage="0% (0/2)">
+              <conditions>
+                <condition number="25" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+            <line number="17" hits="0" branch="False" />
+            <line number="18" hits="0" branch="False" />
+            <line number="19" hits="0" branch="False" />
+            <line number="22" hits="0" branch="False" />
+            <line number="23" hits="0" branch="False" />
+            <line number="26" hits="0" branch="False" />
+            <line number="27" hits="0" branch="True" condition-coverage="0% (0/2)">
+              <conditions>
+                <condition number="78" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+            <line number="28" hits="0" branch="False" />
+            <line number="29" hits="0" branch="True" condition-coverage="0% (0/2)">
+              <conditions>
+                <condition number="39" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+            <line number="30" hits="0" branch="False" />
+            <line number="31" hits="0" branch="False" />
+            <line number="32" hits="0" branch="False" />
+            <line number="35" hits="0" branch="False" />
+            <line number="36" hits="0" branch="False" />
+            <line number="37" hits="0" branch="False" />
+            <line number="38" hits="0" branch="False" />
+            <line number="39" hits="0" branch="False" />
+            <line number="40" hits="0" branch="False" />
+            <line number="41" hits="0" branch="False" />
+            <line number="42" hits="0" branch="False" />
+            <line number="43" hits="0" branch="False" />
+            <line number="44" hits="0" branch="False" />
+            <line number="47" hits="0" branch="False" />
+            <line number="48" hits="0" branch="True" condition-coverage="0% (0/2)">
+              <conditions>
+                <condition number="53" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+            <line number="49" hits="0" branch="False" />
+            <line number="50" hits="0" branch="True" condition-coverage="0% (0/2)">
+              <conditions>
+                <condition number="30" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+            <line number="51" hits="0" branch="False" />
+            <line number="52" hits="0" branch="False" />
+            <line number="53" hits="0" branch="True" condition-coverage="0% (0/2)">
+              <conditions>
+                <condition number="75" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+            <line number="54" hits="0" branch="False" />
+            <line number="55" hits="0" branch="True" condition-coverage="0% (0/2)">
+              <conditions>
+                <condition number="106" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+            <line number="56" hits="0" branch="False" />
+            <line number="57" hits="0" branch="True" condition-coverage="0% (0/2)">
+              <conditions>
+                <condition number="143" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+            <line number="58" hits="0" branch="False" />
+            <line number="59" hits="0" branch="False" />
+            <line number="60" hits="0" branch="False" />
+            <line number="11" hits="0" branch="False" />
+          </lines>
+        </class>
+        <class name="NumerosRomanos.ConsoleApp.RomanosParaArabicos" filename="RomanosParaArabicos.cs" line-rate="0.9806999999999999" branch-rate="0.9375" complexity="19">
+          <methods>
+            <method name="ConverterParaArabico" signature="()" line-rate="1" branch-rate="1" complexity="6">
+              <lines>
+                <line number="14" hits="42" branch="False" />
+                <line number="15" hits="42" branch="False" />
+                <line number="17" hits="42" branch="False" />
+                <line number="18" hits="42" branch="False" />
+                <line number="19" hits="42" branch="False" />
+                <line number="20" hits="42" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="36" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="21" hits="39" branch="False" />
+                <line number="22" hits="459" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="125" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="23" hits="171" branch="False" />
+                <line number="24" hits="171" branch="False" />
+                <line number="25" hits="171" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="87" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="26" hits="28" branch="False" />
+                <line number="27" hits="28" branch="False" />
+                <line number="28" hits="28" branch="False" />
+                <line number="29" hits="28" branch="False" />
+                <line number="31" hits="143" branch="False" />
+                <line number="32" hits="171" branch="False" />
+                <line number="33" hits="171" branch="False" />
+                <line number="34" hits="39" branch="False" />
+                <line number="37" hits="3" branch="False" />
+                <line number="38" hits="42" branch="False" />
+              </lines>
+            </method>
+            <method name="TrocarCaracteresEspeciais" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="41" hits="42" branch="False" />
+                <line number="42" hits="42" branch="False" />
+                <line number="43" hits="42" branch="False" />
+                <line number="44" hits="42" branch="False" />
+                <line number="45" hits="42" branch="False" />
+              </lines>
+            </method>
+            <method name="TransformarEmNumerosArabicos" signature="(System.String)" line-rate="0.8" branch-rate="0.5" complexity="2">
+              <lines>
+                <line number="48" hits="171" branch="False" />
+                <line number="49" hits="171" branch="True" condition-coverage="50% (1/2)">
+                  <conditions>
+                    <condition number="15" type="jump" coverage="50%" />
+                  </conditions>
+                </line>
+                <line number="50" hits="171" branch="False" />
+                <line number="51" hits="0" branch="False" />
+                <line number="52" hits="171" branch="False" />
+              </lines>
+            </method>
+            <method name="GerarDicionarioRomanoParaArabico" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="55" hits="42" branch="False" />
+                <line number="56" hits="42" branch="False" />
+                <line number="57" hits="42" branch="False" />
+                <line number="58" hits="42" branch="False" />
+                <line number="59" hits="42" branch="False" />
+                <line number="60" hits="42" branch="False" />
+                <line number="61" hits="42" branch="False" />
+                <line number="62" hits="42" branch="False" />
+              </lines>
+            </method>
+            <method name="Validar" signature="()" line-rate="1" branch-rate="1" complexity="8">
+              <lines>
+                <line number="65" hits="45" branch="False" />
+                <line number="67" hits="45" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="19" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="68" hits="2" branch="False" />
+                <line number="69" hits="43" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="47" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="70" hits="2" branch="False" />
+                <line number="71" hits="467" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="117" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="72" hits="173" branch="False" />
+                <line number="73" hits="173" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="92" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="74" hits="2" branch="False" />
+                <line number="75" hits="171" branch="False" />
+                <line number="76" hits="39" branch="False" />
+                <line number="77" hits="45" branch="False" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="11" hits="42" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="14" hits="42" branch="False" />
+            <line number="15" hits="42" branch="False" />
+            <line number="17" hits="42" branch="False" />
+            <line number="18" hits="42" branch="False" />
+            <line number="19" hits="42" branch="False" />
+            <line number="20" hits="42" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="36" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="21" hits="39" branch="False" />
+            <line number="22" hits="459" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="125" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="23" hits="171" branch="False" />
+            <line number="24" hits="171" branch="False" />
+            <line number="25" hits="171" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="87" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="26" hits="28" branch="False" />
+            <line number="27" hits="28" branch="False" />
+            <line number="28" hits="28" branch="False" />
+            <line number="29" hits="28" branch="False" />
+            <line number="31" hits="143" branch="False" />
+            <line number="32" hits="171" branch="False" />
+            <line number="33" hits="171" branch="False" />
+            <line number="34" hits="39" branch="False" />
+            <line number="37" hits="3" branch="False" />
+            <line number="38" hits="42" branch="False" />
+            <line number="41" hits="42" branch="False" />
+            <line number="42" hits="42" branch="False" />
+            <line number="43" hits="42" branch="False" />
+            <line number="44" hits="42" branch="False" />
+            <line number="45" hits="42" branch="False" />
+            <line number="48" hits="171" branch="False" />
+            <line number="49" hits="171" branch="True" condition-coverage="50% (1/2)">
+              <conditions>
+                <condition number="15" type="jump" coverage="50%" />
+              </conditions>
+            </line>
+            <line number="50" hits="171" branch="False" />
+            <line number="51" hits="0" branch="False" />
+            <line number="52" hits="171" branch="False" />
+            <line number="55" hits="42" branch="False" />
+            <line number="56" hits="42" branch="False" />
+            <line number="57" hits="42" branch="False" />
+            <line number="58" hits="42" branch="False" />
+            <line number="59" hits="42" branch="False" />
+            <line number="60" hits="42" branch="False" />
+            <line number="61" hits="42" branch="False" />
+            <line number="62" hits="42" branch="False" />
+            <line number="65" hits="45" branch="False" />
+            <line number="67" hits="45" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="19" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="68" hits="2" branch="False" />
+            <line number="69" hits="43" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="47" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="70" hits="2" branch="False" />
+            <line number="71" hits="467" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="117" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="72" hits="173" branch="False" />
+            <line number="73" hits="173" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="92" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="74" hits="2" branch="False" />
+            <line number="75" hits="171" branch="False" />
+            <line number="76" hits="39" branch="False" />
+            <line number="77" hits="45" branch="False" />
+            <line number="11" hits="42" branch="False" />
+          </lines>
+        </class>
+        <class name="NumerosRomanos.ConsoleApp.Program" filename="Program.cs" line-rate="0" branch-rate="1" complexity="1">
+          <methods>
+            <method name="Main" signature="(System.String[])" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="12" hits="0" branch="False" />
+                <line number="13" hits="0" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="12" hits="0" branch="False" />
+            <line number="13" hits="0" branch="False" />
+          </lines>
+        </class>
+      </classes>
+    </package>
+  </packages>
+</coverage>
